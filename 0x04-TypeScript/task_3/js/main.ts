@@ -1,1 +1,1 @@
-ji
+'use strict';
